@@ -1,0 +1,1 @@
+skeleton code for a chat app. 
